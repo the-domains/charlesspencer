@@ -1,7 +1,7 @@
 name: charlesspencer
 favicon: null
-layout_spectrum: 0.9906239411793649
-typography_spectrum: 0.8778276760131121
+layout_spectrum: 1
+typography_spectrum: 0.19575
 cta:
   domain: null
   bucket: null
